@@ -47,6 +47,7 @@ $result = mysqli_query($connection, $query);
     <title>Travel Bookings</title>
     <script src="script1.js"></script>
     <link rel="stylesheet" href="style1.css">
+    <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
     <style>
         .orders-table {
             width: 95%;

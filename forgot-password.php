@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forgot Password</title>
     <link rel="stylesheet" href="style1.css">
+    <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
 </head>
 <body>
 

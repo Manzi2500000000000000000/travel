@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>World Map - City Search</title>
+  <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
   <style>
     :root {
       --main-color: #a226b3ff;

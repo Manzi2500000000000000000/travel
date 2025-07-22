@@ -62,6 +62,7 @@ if (!$result) {
     <meta charset="UTF-8">
     <title>Registered Users</title>
     <link rel="stylesheet" href="style1.css">
+    <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
     <style>
         .action-btn {
             display: inline-block;

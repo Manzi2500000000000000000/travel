@@ -49,6 +49,7 @@ if ($current_user) {
 <head>
   <title>Ask Question</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
   <style>
     :root {
       --main-color: #a226b3ff;

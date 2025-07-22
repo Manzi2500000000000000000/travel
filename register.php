@@ -20,6 +20,7 @@ if (!isset($_SESSION['user_id'])) {
 
      <!-- ----custom css file links------ -->
     <link rel="stylesheet" href="style1.css">
+    <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
 
     <!-- -------swiper css link--------- -->
      <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css" />
