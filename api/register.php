@@ -5,11 +5,11 @@ header("Cache-Control: no-cache, no-store, must-revalidate");
 header("Pragma: no-cache");
 header("Expires: 0");
 
-if (!isset($_SESSION['user_id'])) {
-    header("Location: index.php");
-    exit;
-}
-?>
+// if (!isset($_SESSION['user_id'])) {
+//     header("Location: index.php");
+//     exit;
+// }
+// ?>
 
 <!DOCTYPE html>
 <html lang="en">

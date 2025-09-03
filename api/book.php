@@ -159,7 +159,7 @@ if (!isset($_SESSION['user_id'])) {
             <h3>Contact Info</h3>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
-            <a href="#"> <i class="fas fa-envelope"></i>sheif@travel.com</a>
+            <a href="#"> <i class="fas fa-envelope"></i>admin@travel.com</a>
             <a href="#"> <i class="fas fa-map"></i>kigali, Rwanda</a>
           </div>
 

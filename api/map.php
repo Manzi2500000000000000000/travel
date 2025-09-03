@@ -74,6 +74,12 @@
       font-size: 14px;
       color: #444;
       text-align: center;
+    }   
+
+    a{
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
     }
   </style>
 </head>
@@ -92,7 +98,10 @@
   <p class="tip">
     Tip: Use the search bar above to explore any city, see roads, tourist attractions, and satellite views.
   </p>
+  <button> <a href="home.php"> Back to Home </a></button>
 </div>
+
+
 
 <script>
   function updateMap() {

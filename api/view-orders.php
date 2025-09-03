@@ -173,6 +173,7 @@ $result = mysqli_query($connection, $query);
      <a class="btn" href="book.php">Press Order</a>
     <a class="btn" href="home.php">Back to Home</a>
     <a class="btn" href="map.php">View Destination Locations</a>
+    <a class="btn" onclick="window.print()">Print Report</a>
 </div>
 
 </body>

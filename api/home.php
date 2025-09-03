@@ -145,9 +145,9 @@ if (!isset($_SESSION['user_id'])) {
 
   <div class="content">
     <h3>About Us</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, voluptatum! Quisquam, cumque. Quas, 
-      asperiores. Doloribus, voluptatum! Quisquam, cumque. Quas, asperiores. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, repellendus 
-      cumque rerum cum iure eos culpa mollitia aperiam, ipsum earum nisi corrupti, sequi facilis vel accusamus debitis error! Accusantium, deleniti?</p>
+    <p>Welcome to Travel, your go-to platform for discovering and booking unforgettable travel experiences.
+We’re a team of travel lovers dedicated to making your trips easier, safer, and more exciting. From tailored tour packages to helpful maps and support, we provide everything you need to explore the world with confidence.
+Start your journey with us — adventure is just a click away!</p>
       <a href="about.php" class="btn">Read More</a>
     
 
@@ -168,7 +168,7 @@ if (!isset($_SESSION['user_id'])) {
       </div>
       <div class="content">
         <h3>Adventure & Tour</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus.</p>
+        <p>Adventure Awaits.</p>
         <a href="book.php" class="btn">Book Now</a>
      </div>
   </div>
@@ -179,7 +179,7 @@ if (!isset($_SESSION['user_id'])) {
       </div>
       <div class="content">
         <h3>Adventure & Tour</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus.</p>
+        <p>Escape the Ordinary.</p>
         <a href="book.php" class="btn">Book Now</a>
      </div>
   </div>
@@ -190,7 +190,7 @@ if (!isset($_SESSION['user_id'])) {
       </div>
       <div class="content">
         <h3>Adventure & Tour</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus.</p>
+        <p>Find Your Wild.</p>
         <a href="book.php" class="btn">Book Now</a>
      </div>
   </div>
@@ -208,9 +208,8 @@ if (!isset($_SESSION['user_id'])) {
  <section class="home-offer">
   <div class="content">
     <h3>Up to 50% off</h3>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-      Molestiae dignissimos et, vitae modi qui dolores voluptas harum enim odit
-       earum unde eveniet sed optio vel ab quo quisquam magni ipsa?</p>
+    <p>Special Offer: Enjoy an exclusive 50% discount on all travel bookings for a limited time! Discover new destinations, 
+      create unforgettable memories, and save big. Don’t wait—your next adventure is just a click away!</p>
     <a href="book.php" class="btn">Book Now</a>
   </div>
  </section>
@@ -274,7 +273,7 @@ if (!isset($_SESSION['user_id'])) {
             <h3>Contact Info</h3>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
-            <a href="#"> <i class="fas fa-envelope"></i>sheif@travel.com</a>
+            <a href="#"> <i class="fas fa-envelope"></i>admin@travel.com</a>
             <a href="#"> <i class="fas fa-map"></i>kigali, Rwanda</a>
           </div>
 
@@ -373,6 +372,26 @@ document.addEventListener('DOMContentLoaded', function () {
           return 'Am an AI, but I appreciate your sentiment! Love for travel is what drives us to create amazing experiences.';
       } else if (msg.includes('good morning') || msg.includes('good evening')) {
           return 'Hello, How are you today, and how should i help you?';
+      } else if (msg.includes('good night')) {
+          return 'Good night! Sleep well and dream of your next adventure!';
+      } else if (msg.includes('adventure')) {
+          return 'Adventure awaits! Check out our adventure packages to start your journey.';
+      } else if (msg.includes('tour')) {
+          return 'We offer a variety of tours. Visit our Packages page to find the perfect one for you.';
+      } else if (msg.includes('safety') || msg.includes('secure') ||  msg.includes('safe') ) {
+          return 'Your safety is our priority. We ensure all our tours follow safety guidelines.';
+      } else if (msg.includes('support')) {
+          return 'If you need support, please contact us through the contact information provided in the footer.';
+      } else if (msg.includes('map')) {
+          return 'You can find us on Google Maps. Just search for our location in Kigali, Rwanda.';
+      } else if (msg.includes('privacy') || msg.includes('policy')) {
+          return 'We take your privacy seriously. Please read our Privacy Policy for more information.';
+      } else if (msg.includes('terms') || msg.includes('conditions')) {
+          return 'Please review our Terms of Use for details on using our services.';
+      } else if (msg.includes('feedback')) {
+         return 'We value your feedback! Please let us know how we can improve our services.';
+      } else if (msg.includes('how are you') || msg.includes('how is it going')) {
+         return 'I’m just a program, but I’m here to help you! How can I assist you today?';
       }
       else {
           return 'Sorry, I didn’t understand that. Try asking something else!';

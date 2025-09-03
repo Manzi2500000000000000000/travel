@@ -70,7 +70,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Adventure Awaits.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -81,7 +81,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Escape the Ordinary.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -92,7 +92,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Find Your Wild.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -103,7 +103,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Where the road ends, the story begins.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -114,7 +114,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Breathe in the adventure.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -125,7 +125,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Go where you feel most alive.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -136,7 +136,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Nature is calling.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -147,7 +147,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Wander often, wonder always.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -158,7 +158,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Chasing views, not deadlines.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -169,7 +169,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Every journey begins with a single step.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -180,7 +180,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Go where you feel most alive.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -191,7 +191,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Go where you feel most alive.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -202,7 +202,7 @@ if (!isset($_SESSION['user_id'])) {
           </div>
           <div class="content">
             <h3>Adventure & Tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, expedita.</p>
+            <p>Where the road ends, the story begins.</p>
             <a href="book.php" class="btn">BOOK Now</a>
           </div>
         </div>
@@ -244,7 +244,7 @@ if (!isset($_SESSION['user_id'])) {
             <h3>Contact Info</h3>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
             <a href="#"> <i class="fas fa-phone"></i>+1111 111 1111</a>
-            <a href="#"> <i class="fas fa-envelope"></i>sheif@travel.com</a>
+            <a href="#"> <i class="fas fa-envelope"></i>admin@travel.com</a>
             <a href="#"> <i class="fas fa-map"></i>kigali, Rwanda</a>
           </div>
 

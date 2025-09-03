@@ -10,6 +10,7 @@
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="style1.css">
+  <link rel="icon" type="image/jpeg" href="images/travel2.jpeg">
 
   <script src="script.js" defer></script>
 

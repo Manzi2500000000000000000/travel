@@ -188,6 +188,7 @@ if (!$result) {
     <a class="btn" href="register.php">Register a User</a>
     <a class="btn" href="view-questions.php">View Questions</a>
     <a class="btn" href="view-orders.php">View Orders</a>
+     <a class="btn" onclick="window.print()">Print Report</a>
 </div>
 
 </body>
